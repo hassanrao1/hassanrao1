@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Hassan Ribery  
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Senior+Full-Stack+Developer;TypeScript+%7C+Node.js+%7C+React;Clean+Architecture+%26+Scalable+Systems" />
-</p>
+🚀 **Senior Full-Stack Developer** | TypeScript Enthusiast | Scalable Systems Builder  
+
+I’m a passionate full-stack engineer with strong experience building **production-grade web applications**, **APIs**, and **scalable architectures**. I enjoy writing clean, maintainable code and designing systems that actually solve real business problems.
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -20,43 +21,51 @@
 
 ## 🧠 About Me
 
-🚀 **Senior Full-Stack Developer** with strong experience in building **scalable**, **maintainable**, and **production-grade** applications.
-
-- 🏗️ Clean Architecture & Dependency Injection  
-- 🔥 Performance-focused backend systems  
-- 💡 Type-safe frontend & backend using **TypeScript**  
-- 🤝 Code reviews, mentoring & collaboration  
+- 💼 Senior Full-Stack Developer  
+- 🏗️ Experienced in **monorepos**, **microservices**, and **enterprise-grade systems**
+- 🔍 Strong focus on **code quality**, **performance**, and **best practices**
+- 🤝 Comfortable with **code reviews**, **mentoring**, and **collaborating with cross-functional teams**
+- 🌍 Remote-first mindset, product-driven development
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js" />
-</p>
+- **TypeScript**
+- **JavaScript**
 
 ### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb" />
-</p>
-
-- **InversifyJS** (DI & clean architecture)
+- **Node.js**
+- **NestJS**
+- **Express.js**
+- **InversifyJS** (Dependency Injection & clean architecture)
+- REST APIs & Authentication
+- MongoDB & Mongoose
 
 ### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs" />
-</p>
+- **React.js**
+- **Next.js**
+- Modern Hooks & Component Architecture
+- Ant Design & Custom UI Systems
+
+### 🏗️ Architecture & Practices
+- Clean Architecture
+- Dependency Injection
+- Monorepo Architecture
+- Modular & Scalable Codebases
+- API Design & Optimization
 
 ---
 
-## 🧩 Architecture & Practices
+## 🔥 What I’m Good At
 
-<p>
-  <img src="https://img.shields.io/badge/Clean%20Architecture-★★★★★-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Dependency%20Injection-Inversify-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Monorepo-Architecture-orange?style=for-the-badge" />
-</p>
+- Designing **scalable backend architectures**
+- Building **high-performance APIs**
+- Creating **clean and maintainable frontend applications**
+- Refactoring legacy code into modern, readable systems
+- Debugging complex production issues
+- Writing **type-safe**, predictable code
 
 ---
 
@@ -69,7 +78,7 @@
 
 ---
 
-## 🔥 Code Mindset
+## 🧩 Featured Skills
 
 ```ts
 const hassan = {
