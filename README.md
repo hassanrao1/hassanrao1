@@ -13,9 +13,7 @@ I’m a passionate full-stack engineer with strong experience building **product
   <img src="https://img.shields.io/badge/SSR-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" />
-</p>
+
 
 ---
 
@@ -67,16 +65,7 @@ I’m a passionate full-stack engineer with strong experience building **product
 - Debugging complex production issues
 - Writing **type-safe**, predictable code
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="165" />
-</p>
-
----
 
 ## 🧩 Featured Skills
 
