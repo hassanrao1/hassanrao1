@@ -1,58 +1,62 @@
-# 👋 Hi, I'm Hassan   
+# 👋 Hi, I'm Hassan Ribery  
 
-🚀 **Senior Full-Stack Developer** | TypeScript Enthusiast | Scalable Systems Builder  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Senior+Full-Stack+Developer;TypeScript+%7C+Node.js+%7C+React;Clean+Architecture+%26+Scalable+Systems" />
+</p>
 
-I’m a passionate full-stack engineer with strong experience building **production-grade web applications**, **APIs**, and **scalable architectures**. I enjoy writing clean, maintainable code and designing systems that actually solve real business problems.
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/SSR-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" />
+</p>
 
 ---
 
 ## 🧠 About Me
 
-- 💼 Senior Full-Stack Developer  
-- 🏗️ Experienced in **monorepos**, **microservices**, and **enterprise-grade systems**
-- 🔍 Strong focus on **code quality**, **performance**, and **best practices**
-- 🤝 Comfortable with **code reviews**, **mentoring**, and **collaborating with cross-functional teams**
-- 🌍 Remote-first mindset, product-driven development
+🚀 **Senior Full-Stack Developer** with strong experience in building **scalable**, **maintainable**, and **production-grade** applications.
+
+- 🏗️ Clean Architecture & Dependency Injection  
+- 🔥 Performance-focused backend systems  
+- 💡 Type-safe frontend & backend using **TypeScript**  
+- 🤝 Code reviews, mentoring & collaboration  
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-- **TypeScript**
-- **JavaScript**
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js" />
+</p>
 
 ### ⚙️ Backend
-- **Node.js**
-- **NestJS**
-- **Express.js**
-- **InversifyJS** (Dependency Injection & clean architecture)
-- REST APIs & Authentication
-- MongoDB & Mongoose
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb" />
+</p>
+
+- **InversifyJS** (DI & clean architecture)
 
 ### 🌐 Frontend
-- **React.js**
-- **Next.js**
-- Modern Hooks & Component Architecture
-- Ant Design & Custom UI Systems
-
-### 🏗️ Architecture & Practices
-- Clean Architecture
-- Dependency Injection
-- Monorepo Architecture
-- Modular & Scalable Codebases
-- API Design & Optimization
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs" />
+</p>
 
 ---
 
-## 🔥 What I’m Good At
+## 🧩 Architecture & Practices
 
-- Designing **scalable backend architectures**
-- Building **high-performance APIs**
-- Creating **clean and maintainable frontend applications**
-- Refactoring legacy code into modern, readable systems
-- Debugging complex production issues
-- Writing **type-safe**, predictable code
+<p>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-★★★★★-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dependency%20Injection-Inversify-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Monorepo-Architecture-orange?style=for-the-badge" />
+</p>
 
 ---
 
@@ -65,7 +69,7 @@ I’m a passionate full-stack engineer with strong experience building **product
 
 ---
 
-## 🧩 Featured Skills
+## 🔥 Code Mindset
 
 ```ts
 const hassan = {
