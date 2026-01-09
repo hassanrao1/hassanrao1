@@ -20,12 +20,12 @@
 
 ## 🧠 About Me
 
-🚀 **Senior Full-Stack Developer** specializing in **scalable**, **type-safe**, and **clean architecture** systems.
+🚀 **Senior Full-Stack Developer** with strong experience in building **scalable**, **maintainable**, and **production-grade** applications.
 
-- Clean Architecture & Dependency Injection  
-- Enterprise-grade APIs  
-- TypeScript everywhere  
-- Performance & maintainability first  
+- 🏗️ Clean Architecture & Dependency Injection  
+- 🔥 Performance-focused backend systems  
+- 💡 Type-safe frontend & backend using **TypeScript**  
+- 🤝 Code reviews, mentoring & collaboration  
 
 ---
 
@@ -41,7 +41,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb" />
 </p>
 
-- **InversifyJS** for Dependency Injection
+- **InversifyJS** (DI & clean architecture)
 
 ### 🌐 Frontend
 <p>
@@ -50,24 +50,33 @@
 
 ---
 
-## 🏗️ System Architecture (Clean Architecture)
+## 🧩 Architecture & Practices
 
-```mermaid
-flowchart TB
+<p>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-★★★★★-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dependency%20Injection-Inversify-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Monorepo-Architecture-orange?style=for-the-badge" />
+</p>
 
-    UI[Next.js / React UI]
-    API[NestJS API Layer]
-    CTRL[Controllers]
-    UC[Use Cases / Services]
-    DI[Inversify Container]
-    DOMAIN[Domain Entities]
-    REPO[Repositories]
-    DB[(MongoDB)]
+---
 
-    UI -->|HTTP / REST| API
-    API --> CTRL
-    CTRL --> UC
-    UC --> DOMAIN
-    UC --> DI
-    DI --> REPO
-    REPO --> DB
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+---
+
+## 🔥 Code Mindset
+
+```ts
+const hassan = {
+  role: "Senior Full Stack Developer",
+  languages: ["TypeScript", "JavaScript"],
+  backend: ["Node.js", "NestJS", "Express", "Inversify"],
+  frontend: ["React", "Next.js"],
+  architecture: ["Clean Architecture", "DI", "Monorepo"],
+  mindset: ["Scalable", "Maintainable", "Production-Ready"]
+};
