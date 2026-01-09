@@ -1,23 +1,78 @@
-<h1 align="center">Hi 👋, I'm Hassan</h1>
-<h3 align="center">A passionate Full-Stack Developer</h3>
+# 👋 Hi, I'm Hassan   
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanrao1&label=Profile%20views&color=0e75b6&style=flat" alt="hassanrao1" /> </p>
+🚀 **Senior Full-Stack Developer** | TypeScript Enthusiast | Scalable Systems Builder  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassanrao1" alt="hassanrao1" /></a> </p>
+I’m a passionate full-stack engineer with strong experience building **production-grade web applications**, **APIs**, and **scalable architectures**. I enjoy writing clean, maintainable code and designing systems that actually solve real business problems.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+---
+
+## 🧠 About Me
+
+- 💼 Senior Full-Stack Developer  
+- 🏗️ Experienced in **monorepos**, **microservices**, and **enterprise-grade systems**
+- 🔍 Strong focus on **code quality**, **performance**, and **best practices**
+- 🤝 Comfortable with **code reviews**, **mentoring**, and **collaborating with cross-functional teams**
+- 🌍 Remote-first mindset, product-driven development
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+- **TypeScript**
+- **JavaScript**
+
+### ⚙️ Backend
+- **Node.js**
+- **NestJS**
+- **Express.js**
+- **InversifyJS** (Dependency Injection & clean architecture)
+- REST APIs & Authentication
+- MongoDB & Mongoose
+
+### 🌐 Frontend
+- **React.js**
+- **Next.js**
+- Modern Hooks & Component Architecture
+- Ant Design & Custom UI Systems
+
+### 🏗️ Architecture & Practices
+- Clean Architecture
+- Dependency Injection
+- Monorepo Architecture
+- Modular & Scalable Codebases
+- API Design & Optimization
+
+---
+
+## 🔥 What I’m Good At
+
+- Designing **scalable backend architectures**
+- Building **high-performance APIs**
+- Creating **clean and maintainable frontend applications**
+- Refactoring legacy code into modern, readable systems
+- Debugging complex production issues
+- Writing **type-safe**, predictable code
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="165" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/hassanrao1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hassanrao1" /></a></p><br><br>
+## 🧩 Featured Skills
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanrao1&show_icons=true&locale=en&layout=compact" alt="hassanrao1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassanrao1&show_icons=true&locale=en" alt="hassanrao1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanrao1&" alt="hassanrao1" /></p>
-
+```ts
+const hassan = {
+  role: "Senior Full Stack Developer",
+  languages: ["TypeScript", "JavaScript"],
+  backend: ["Node.js", "NestJS", "Express", "Inversify"],
+  frontend: ["React", "Next.js"],
+  architecture: ["Clean Architecture", "DI", "Monorepo"],
+  mindset: ["Scalable", "Maintainable", "Production-Ready"]
+};
